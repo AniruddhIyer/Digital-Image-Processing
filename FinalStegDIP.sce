@@ -1,6 +1,6 @@
 tic();
-//OrigImage = imread("lena_256light.jpg");
-OrigImage = [[3,3,1],[1,5,2],[2,0,1]];
+OrigImage = imread("lena_256.jpg");
+//OrigImage = [[3,3,1],[1,5,2],[2,0,1]];
 //The above statement was used to test the algorithm and verify it.
 
 //Most  of the declarations are done below.
